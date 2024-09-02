@@ -6,17 +6,6 @@ a, .btn-link {
     color: #006bb7;
 }
 
-.imagem-retangular {
-    max-width: auto;
-    height: 200px;
-}
-
-.imagem-fixada {
-    width: 200px; /* Defina a largura desejada */
-    height: 300px; /* Defina a altura desejada */
-    object-fit: cover; /* Mantém as proporções e corta para ajustar as dimensões especificadas */
-}
-
 .btn-primary {
     color: #fff;
     background-color: #1b6ec2;
