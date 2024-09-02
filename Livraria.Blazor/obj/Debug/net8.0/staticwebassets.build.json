@@ -1,0 +1,1979 @@
+{
+  "Version": 1,
+  "Hash": "Yt3EE2rhfroDfgh5KNFQRy3SqXhS0r719fQ40E4ZOfU=",
+  "Source": "Livraria.Blazor",
+  "BasePath": "_content/Livraria.Blazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Livraria.Blazor\\wwwroot",
+      "Source": "Livraria.Blazor",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Livraria.Blazor.styles.css",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Livraria.Blazor#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "2oeq5sovy2",
+      "Integrity": "wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Livraria.Blazor.styles.css"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "Livraria.Blazor#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "2oeq5sovy2",
+      "Integrity": "wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\app.css",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bnpm4q3hoy",
+      "Integrity": "V8e6SZ4YAGFL8CWeFxjk6dI9FJsvneBBhxtYS02SERo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\EditarLivro.txt",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "bootstrap/EditarLivro#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xbwcpo3uzj",
+      "Integrity": "rfew6OGVuU9YXHKU5ajJwyUzM+6UME0XbjGFaJfdCVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\EditarLivro.txt"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\favicon.png",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\2001odisseia1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/2001odisseia1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "clleq72oj3",
+      "Integrity": "0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2001odisseia1.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\cleanarch1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/cleanarch1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nfcgaanm7u",
+      "Integrity": "80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cleanarch1.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\cleancode1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/cleancode1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8nob9ecedu",
+      "Integrity": "hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cleancode1.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\contoduascidades1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/contoduascidades1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4gmpdyp2tv",
+      "Integrity": "HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\contoduascidades1.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\ddd1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/ddd1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3bwwp8iswq",
+      "Integrity": "cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ddd1.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\domquixote1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/domquixote1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tiitrkrydq",
+      "Integrity": "+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\domquixote1.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\livraria.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/livraria#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "57876kjn6e",
+      "Integrity": "Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\livraria.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\livrariaicon.png",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/livrariaicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jc27bhf45l",
+      "Integrity": "o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\livrariaicon.png"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\loading.gif",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/loading#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6qxjj9hcky",
+      "Integrity": "ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\loading.gif"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\quartarevolucao1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/quartarevolucao1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "96hclo5bgt",
+      "Integrity": "D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\quartarevolucao1.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\semfoto.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/semfoto#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6m9ox9ve8",
+      "Integrity": "lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\semfoto.jpg"
+    },
+    {
+      "Identity": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\senhoraneis1.jpg",
+      "SourceId": "Livraria.Blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\",
+      "BasePath": "_content/Livraria.Blazor",
+      "RelativePath": "images/senhoraneis1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a5wvr3ltab",
+      "Integrity": "gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\senhoraneis1.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.bnpm4q3hoy.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8e6SZ4YAGFL8CWeFxjk6dI9FJsvneBBhxtYS02SERo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Feb 2024 11:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bnpm4q3hoy"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V8e6SZ4YAGFL8CWeFxjk6dI9FJsvneBBhxtYS02SERo="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8e6SZ4YAGFL8CWeFxjk6dI9FJsvneBBhxtYS02SERo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 Feb 2024 11:58:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V8e6SZ4YAGFL8CWeFxjk6dI9FJsvneBBhxtYS02SERo="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 20:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 20:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 20:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 20:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/EditarLivro.txt",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\EditarLivro.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfew6OGVuU9YXHKU5ajJwyUzM+6UME0XbjGFaJfdCVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 15:11:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfew6OGVuU9YXHKU5ajJwyUzM+6UME0XbjGFaJfdCVU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/EditarLivro.xbwcpo3uzj.txt",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\bootstrap\\EditarLivro.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rfew6OGVuU9YXHKU5ajJwyUzM+6UME0XbjGFaJfdCVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 15:11:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xbwcpo3uzj"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/EditarLivro.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rfew6OGVuU9YXHKU5ajJwyUzM+6UME0XbjGFaJfdCVU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 20:29:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 20:29:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/2001odisseia1.clleq72oj3.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\2001odisseia1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:38:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "clleq72oj3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2001odisseia1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk="
+        }
+      ]
+    },
+    {
+      "Route": "images/2001odisseia1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\2001odisseia1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24186"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:38:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0FrCODZjpJlx3s3sdaQEMI83r0C3N8Tg2oU4KPOeJlk="
+        }
+      ]
+    },
+    {
+      "Route": "images/cleanarch1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\cleanarch1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:39:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cleanarch1.nfcgaanm7u.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\cleanarch1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:39:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nfcgaanm7u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cleanarch1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-80S5yzkmTo1p5WvqvlgLcs6MIGy/F27cUUQzXGUYicU="
+        }
+      ]
+    },
+    {
+      "Route": "images/cleancode1.8nob9ecedu.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\cleancode1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 14:07:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8nob9ecedu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cleancode1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low="
+        }
+      ]
+    },
+    {
+      "Route": "images/cleancode1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\cleancode1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78579"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 14:07:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hDJFsHht1Z5bchkwxGsTdJE8zPSCLZ3fQXe9nyA2Low="
+        }
+      ]
+    },
+    {
+      "Route": "images/contoduascidades1.4gmpdyp2tv.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\contoduascidades1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:37:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gmpdyp2tv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/contoduascidades1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A="
+        }
+      ]
+    },
+    {
+      "Route": "images/contoduascidades1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\contoduascidades1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:37:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HL04sK+62iKNh7rhTZy0GWpwF5qDhySagzlE7m1N15A="
+        }
+      ]
+    },
+    {
+      "Route": "images/ddd1.3bwwp8iswq.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\ddd1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 14:08:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3bwwp8iswq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ddd1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8="
+        }
+      ]
+    },
+    {
+      "Route": "images/ddd1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\ddd1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 14:08:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZssCnrrL1aJh1BVP+EBn9TNzk3BugOx0FZNHQ/S7u8="
+        }
+      ]
+    },
+    {
+      "Route": "images/domquixote1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\domquixote1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k="
+        }
+      ]
+    },
+    {
+      "Route": "images/domquixote1.tiitrkrydq.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\domquixote1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tiitrkrydq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/domquixote1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+wHimb6kX1LZCZMGYKQgS6mV+IYowM1ssYakxTs4y0k="
+        }
+      ]
+    },
+    {
+      "Route": "images/livraria.57876kjn6e.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\livraria.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Feb 2024 12:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "57876kjn6e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/livraria.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/livraria.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\livraria.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Feb 2024 12:12:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qavnviz0Y2kdb5AHqqcxneOSgbblHE95R9hIoonJZmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/livrariaicon.jc27bhf45l.png",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\livrariaicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Feb 2024 11:48:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jc27bhf45l"
+        },
+        {
+          "Name": "label",
+          "Value": "images/livrariaicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo="
+        }
+      ]
+    },
+    {
+      "Route": "images/livrariaicon.png",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\livrariaicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Feb 2024 11:48:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o8aXyY/GlVB3rDZT/sbAU7QrJkhNH68DPZObwB1yXPo="
+        }
+      ]
+    },
+    {
+      "Route": "images/loading.6qxjj9hcky.gif",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\loading.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 13:29:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6qxjj9hcky"
+        },
+        {
+          "Name": "label",
+          "Value": "images/loading.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY="
+        }
+      ]
+    },
+    {
+      "Route": "images/loading.gif",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\loading.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72191"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jan 2024 13:29:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ggdkZf1AD7rSwIpSJwfiIqANgmVV1WHlxGuKxQKv7uY="
+        }
+      ]
+    },
+    {
+      "Route": "images/quartarevolucao1.96hclo5bgt.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\quartarevolucao1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Feb 2024 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96hclo5bgt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/quartarevolucao1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020="
+        }
+      ]
+    },
+    {
+      "Route": "images/quartarevolucao1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\quartarevolucao1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 Feb 2024 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D3lBEke62xuSzSLu+wTCAb0eBE8luq9ITwCheRUX020="
+        }
+      ]
+    },
+    {
+      "Route": "images/semfoto.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\semfoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Jun 2023 22:31:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4="
+        }
+      ]
+    },
+    {
+      "Route": "images/semfoto.u6m9ox9ve8.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\semfoto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4244"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Jun 2023 22:31:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6m9ox9ve8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/semfoto.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lmTsa4/rk38hkK6hWuC0dwEFXWXSExeMZEotlDd0wJ4="
+        }
+      ]
+    },
+    {
+      "Route": "images/senhoraneis1.a5wvr3ltab.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\senhoraneis1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:36:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a5wvr3ltab"
+        },
+        {
+          "Name": "label",
+          "Value": "images/senhoraneis1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII="
+        }
+      ]
+    },
+    {
+      "Route": "images/senhoraneis1.jpg",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\wwwroot\\images\\senhoraneis1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jan 2024 22:36:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gtQFBjZyvdC6jjkuczjLpx7hqORheMOHlRDhyHv8UII="
+        }
+      ]
+    },
+    {
+      "Route": "Livraria.Blazor.2oeq5sovy2.bundle.scp.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Feb 2024 16:25:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2oeq5sovy2"
+        },
+        {
+          "Name": "label",
+          "Value": "Livraria.Blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY="
+        }
+      ]
+    },
+    {
+      "Route": "Livraria.Blazor.2oeq5sovy2.styles.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Livraria.Blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Feb 2024 16:25:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2oeq5sovy2"
+        },
+        {
+          "Name": "label",
+          "Value": "Livraria.Blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY="
+        }
+      ]
+    },
+    {
+      "Route": "Livraria.Blazor.bundle.scp.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Livraria.Blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Feb 2024 16:25:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY="
+        }
+      ]
+    },
+    {
+      "Route": "Livraria.Blazor.styles.css",
+      "AssetFile": "C:\\_Projetos\\web\\Livraria.Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Livraria.Blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6902"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 Feb 2024 16:25:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wiGqdvlOHYNNbQnv+RuC6NWaeT/41W9Bd2RFhEeWkOY="
+        }
+      ]
+    }
+  ]
+}

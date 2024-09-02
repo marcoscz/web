@@ -1,0 +1,8 @@
+.custom-card[b-sgvols6r2b] {
+    height: 99%; /* Defina a altura desejada para o card */
+}
+
+.custom-card-img[b-sgvols6r2b] {
+    height: 250px; /* Defina a altura desejada para a imagem */
+    object-fit: cover; /* Isso ajuda a manter a proporção da imagem */
+}
